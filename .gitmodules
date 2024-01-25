@@ -1,0 +1,3 @@
+[submodule "docker-crud"]
+	path = docker-crud
+	url = https://github.com/eosmanspah2/priprema-njemci.git
